@@ -10,5 +10,5 @@ Notebook that uses facebook's denoiser architecture to do real-time mp3 audio kb
 ## Illustration
 
 <p align="center">
-<img src="./mp3_superresolution" alt="Schema representing the structure of the pipel."
+<img src="./mp3_superres.png" alt="Schema representing the structure of the pipeline."
 width="50%"></p>
